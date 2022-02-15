@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sJHaiBdn7UAdT2HAx1ImLU/3E7lGzYTwQsKMOminbBwfsfE2XbWVxqnhj4QhBzQG0oYmM92hMVTphk/V0EN/w==",
+  "success": true,
+  "projectFilePath": "C:\\DiscoD\\code\\curso\\wwwpruebacore\\wwwpruebacore\\wwwpruebacore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jodiazc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
