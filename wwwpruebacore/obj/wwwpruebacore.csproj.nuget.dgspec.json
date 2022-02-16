@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DiscoD\\code\\curso\\wwwpruebacore\\wwwpruebacore\\wwwpruebacore.csproj": {}
+    "C:\\DiscoD\\code\\curso\\pruebaql\\ProyWorld\\wwwpruebacore\\wwwpruebacore.csproj": {}
   },
   "projects": {
-    "C:\\DiscoD\\code\\curso\\wwwpruebacore\\wwwpruebacore\\wwwpruebacore.csproj": {
+    "C:\\DiscoD\\code\\curso\\pruebaql\\ProyWorld\\wwwpruebacore\\wwwpruebacore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiscoD\\code\\curso\\wwwpruebacore\\wwwpruebacore\\wwwpruebacore.csproj",
+        "projectUniqueName": "C:\\DiscoD\\code\\curso\\pruebaql\\ProyWorld\\wwwpruebacore\\wwwpruebacore.csproj",
         "projectName": "wwwpruebacore",
-        "projectPath": "C:\\DiscoD\\code\\curso\\wwwpruebacore\\wwwpruebacore\\wwwpruebacore.csproj",
+        "projectPath": "C:\\DiscoD\\code\\curso\\pruebaql\\ProyWorld\\wwwpruebacore\\wwwpruebacore.csproj",
         "packagesPath": "C:\\Users\\jodiazc\\.nuget\\packages\\",
-        "outputPath": "C:\\DiscoD\\code\\curso\\wwwpruebacore\\wwwpruebacore\\obj\\",
+        "outputPath": "C:\\DiscoD\\code\\curso\\pruebaql\\ProyWorld\\wwwpruebacore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -29,6 +29,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/satmstfs/_packaging/AnualesFeed/nuget/v3/index.json": {},
           "https://pkgs.dev.azure.com/thorsol/preprodanuales/_packaging/nugetsat/nuget/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +51,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

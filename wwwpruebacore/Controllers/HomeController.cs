@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using wwwpruebacore.Models;
+using System.IO;
+
 
 namespace wwwpruebacore.Controllers
 {
@@ -20,6 +22,8 @@ namespace wwwpruebacore.Controllers
 
         public IActionResult Privacy()
         {
+            MemoryStream _mi = new MemoryStream();
+
             return View();
         }
 
